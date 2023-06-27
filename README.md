@@ -16,7 +16,7 @@ conda activate fastchat
 pip install fschat
 ```
 
-Setup the API (see the [docs](https://github.com/lm-sys/FastChat/blob/main/docs/openai_api.md)] for more info)
+## Setup the API (see the [docs](https://github.com/lm-sys/FastChat/blob/main/docs/openai_api.md)] for more info)
 
 There are 3 basic steps:
 
