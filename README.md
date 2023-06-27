@@ -16,7 +16,7 @@ conda activate fastchat
 pip install fschat
 ```
 
-## Setup the API (see the [docs](https://github.com/lm-sys/FastChat/blob/main/docs/openai_api.md)] for more info)
+## Setup the API (see the [docs](https://github.com/lm-sys/FastChat/blob/main/docs/openai_api.md) for more info)
 
 There are 3 basic steps:
 
@@ -39,7 +39,7 @@ python3 -m fastchat.serve.openai_api_server --host localhost --port 8000
 ```
 Now, let us test the API server.
 
-OpenAI Official SDK
+## OpenAI Official SDK
 The goal of openai_api_server.py is to implement a fully OpenAI-compatible API server, so the models can be used directly with openai-python library.
 
 First, install `openai-python`:
